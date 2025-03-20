@@ -1,1 +1,1 @@
-#Hyprland Configuration by buffliner
+# Hyprland Configuration by buffliner
